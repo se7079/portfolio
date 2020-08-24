@@ -8,7 +8,7 @@
 </head>
 <body>
 <div align="center">
-<h1>모두와 화합 해보세요! 수정</h1>
+<h1>모두와 화합 해보세요! 수정2</h1> 
 <input type="button" value="화합 하러 가기" onclick="location.href='login'">
 </div>
 </body>
